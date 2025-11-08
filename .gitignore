@@ -1,0 +1,7 @@
+# Arquivos executáveis gerados pela compilação
+detective_novato
+detective_aventureiro
+detective_mestre
+
+# Arquivos objeto que podem ser gerados
+*.o
